@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" stylesheets="@fxmlcss.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="javafx.css.FXMLCSSController">
+   <children>
+      <Label layoutX="68.0" layoutY="43.0" style="-fx-border-color: #3300FF; -fx-border-width: 3;" text="Label" />
+      <Button layoutX="68.0" layoutY="107.0" mnemonicParsing="false" style="-fx-font-family: Arial; -fx-font-size: 20;" text="Button" />
+      <TextField layoutX="68.0" layoutY="195.0" style="-fx-background-radius: 10;" />
+      <Label layoutX="286.0" layoutY="45.0" text="Label" />
+      <Button layoutX="286.0" layoutY="113.0" mnemonicParsing="false" text="Button" />
+      <TextField layoutX="286.0" layoutY="193.0" />
+      <Button layoutX="290.0" layoutY="311.0" mnemonicParsing="false" styleClass="inserir" />
+      <Button layoutX="383.0" layoutY="312.0" mnemonicParsing="false" styleClass="alterar" />
+      <Button layoutX="474.0" layoutY="312.0" mnemonicParsing="false" styleClass="remover" />
+   </children>
+</AnchorPane>

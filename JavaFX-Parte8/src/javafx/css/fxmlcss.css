@@ -1,0 +1,31 @@
+.label{
+    -fx-border-color: #ff0000;
+}
+
+.button{
+    -fx-font-family: "Times new Roman", Georgia, Serif;
+    -fx-font-size: 11pt;
+}
+
+.button.inserir{
+    -fx-background-image: url("bt_inserir.png");
+    -fx-pref-height: 30px;
+    -fx-pref-width: 30px;
+}
+
+.button.alterar{
+    -fx-background-image: url("bt_alterar.png");
+    -fx-pref-height: 30px;
+    -fx-pref-width: 30px;
+}
+
+.button.remover{
+    -fx-background-image: url("bt_remover.png");
+    -fx-pref-height: 30px;
+    -fx-pref-width: 30px;
+}
+
+.text-field{
+    -fx-background-color: #ffff00;
+}
+
