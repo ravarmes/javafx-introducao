@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="207.0" prefWidth="425.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="javafx.combobox.FXMLComboBoxController">
+   <children>
+      <ComboBox fx:id="comboBoxClientes" layoutX="63.0" layoutY="64.0" onAction="#selecionarItemComboBoxClientes" prefWidth="150.0" promptText="Selecione o cliente..." />
+      <Button fx:id="buttonRemover" layoutX="259.0" layoutY="64.0" mnemonicParsing="false" onAction="#removerItemComboBoxClientes" text="Remover" />
+   </children>
+</AnchorPane>
