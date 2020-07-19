@@ -37,7 +37,7 @@
 
 ## :clapper: Tela(s) <a name="-telas"/></a>
 
-![Tela Empréstimo](https://github.com/ravarmes/javafx-crud-mvc/blob/master/assets/javafx-introducao.gif)
+![Tela](https://github.com/ravarmes/javafx-introducao/blob/master/assets/javafx-introducao.gif)
 
 ## :link: Links <a name="-links"/></a>
 
